@@ -52,8 +52,17 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_ManagerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_ManagerInfo.Designer.cs">
+      <DependentUpon>Form_ManagerInfo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_ManagerInfo.resx">
+      <DependentUpon>Form_ManagerInfo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -75,6 +84,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lead.Prim.Cater.Bll\Lead.Prim.Cater.Bll.csproj">
+      <Project>{856e8a03-66e5-4076-bf85-ff6946bbb8e2}</Project>
+      <Name>Lead.Prim.Cater.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lead.Prim.Cater.Common\Lead.Prim.Cater.Common.csproj">
+      <Project>{ecf814d2-9ed7-4fdc-815d-d4d1cdb64a61}</Project>
+      <Name>Lead.Prim.Cater.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lead.Prim.Cater.Model\Lead.Prim.Cater.Model.csproj">
+      <Project>{44802026-f456-439d-8c0a-66a040da5ca6}</Project>
+      <Name>Lead.Prim.Cater.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

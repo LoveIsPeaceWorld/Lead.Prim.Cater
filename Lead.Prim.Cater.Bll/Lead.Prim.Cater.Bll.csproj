@@ -43,5 +43,19 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lead.Prim.Cater.Common\Lead.Prim.Cater.Common.csproj">
+      <Project>{ecf814d2-9ed7-4fdc-815d-d4d1cdb64a61}</Project>
+      <Name>Lead.Prim.Cater.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lead.Prim.Cater.Dal\Lead.Prim.Cater.Dal.csproj">
+      <Project>{f72767eb-33c1-4739-b6a2-add8d59a1f38}</Project>
+      <Name>Lead.Prim.Cater.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lead.Prim.Cater.Model\Lead.Prim.Cater.Model.csproj">
+      <Project>{44802026-f456-439d-8c0a-66a040da5ca6}</Project>
+      <Name>Lead.Prim.Cater.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

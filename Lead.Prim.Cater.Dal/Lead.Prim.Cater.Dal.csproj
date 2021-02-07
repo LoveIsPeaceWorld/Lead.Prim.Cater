@@ -32,7 +32,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.94.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Lead.Prim.Lib\System.Data.SQLite.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,6 +47,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqliteHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lead.Prim.Cater.Common\Lead.Prim.Cater.Common.csproj">
+      <Project>{ecf814d2-9ed7-4fdc-815d-d4d1cdb64a61}</Project>
+      <Name>Lead.Prim.Cater.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lead.Prim.Cater.Model\Lead.Prim.Cater.Model.csproj">
+      <Project>{44802026-f456-439d-8c0a-66a040da5ca6}</Project>
+      <Name>Lead.Prim.Cater.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
