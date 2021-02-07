@@ -1,0 +1,9 @@
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\bin\Debug\Lead.Prim.Cater.UI.exe.config
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\bin\Debug\Lead.Prim.Cater.UI.exe
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\bin\Debug\Lead.Prim.Cater.UI.pdb
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\obj\Debug\Lead.Prim.Cater.UI.csprojAssemblyReference.cache
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\obj\Debug\Lead.Prim.Cater.UI.Properties.Resources.resources
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\obj\Debug\Lead.Prim.Cater.UI.csproj.GenerateResource.cache
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\obj\Debug\Lead.Prim.Cater.UI.csproj.CoreCompileInputs.cache
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\obj\Debug\Lead.Prim.Cater.UI.exe
+E:\学习用\项目练习\Project\Lead.Prim.Cater.UI\obj\Debug\Lead.Prim.Cater.UI.pdb
