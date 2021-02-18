@@ -1,0 +1,13 @@
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\Lead.Prim.Cater.Dal.dll
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\Lead.Prim.Cater.Dal.pdb
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\Lead.Prim.Cater.Common.dll
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\Lead.Prim.Cater.Model.dll
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\System.Data.SQLite.dll
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\Lead.Prim.Cater.Common.pdb
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\Lead.Prim.Cater.Model.pdb
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\bin\Debug\System.Data.SQLite.xml
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\obj\Debug\Lead.Prim.Cater.Dal.csprojAssemblyReference.cache
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\obj\Debug\Lead.Prim.Cater.Dal.csproj.CoreCompileInputs.cache
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\obj\Debug\Lead.Prim.Cater.Dal.csproj.CopyComplete
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\obj\Debug\Lead.Prim.Cater.Dal.dll
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Dal\obj\Debug\Lead.Prim.Cater.Dal.pdb

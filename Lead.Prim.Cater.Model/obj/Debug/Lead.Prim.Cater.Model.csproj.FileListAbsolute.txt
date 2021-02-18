@@ -1,0 +1,6 @@
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Model\bin\Debug\Lead.Prim.Cater.Model.dll
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Model\bin\Debug\Lead.Prim.Cater.Model.pdb
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Model\obj\Debug\Lead.Prim.Cater.Model.csprojAssemblyReference.cache
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Model\obj\Debug\Lead.Prim.Cater.Model.csproj.CoreCompileInputs.cache
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Model\obj\Debug\Lead.Prim.Cater.Model.dll
+E:\学习用\项目练习\新建文件夹\Lead.Prim.Cater.Model\obj\Debug\Lead.Prim.Cater.Model.pdb
